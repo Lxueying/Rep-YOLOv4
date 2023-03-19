@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-# Copyright (c) 2022 Huansu. Some rights reserved.
-# Author: Huansu
+# Copyright (c) 2022 lxueying. Some rights reserved.
+# Author: Lxueying
 # Filename: CreateBranchForIdentity.py
 # Note: To create the identity branch and fuse this layer with BN layer.\
 #           Please run this code after PaddingKernel.py.
