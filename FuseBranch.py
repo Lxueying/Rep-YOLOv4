@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-# Copyright (c) 2022 Huansu. Some rights reserved.
-# Author: Huansu
+# Copyright (c) 2022 Lxueying. Some rights reserved.
+# Author: Lxueying
 # Filename: FuseBranch.py
 # Note: To fuse the branches with different kenerl size and delete the redundant layers.
 
