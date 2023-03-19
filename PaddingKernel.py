@@ -1,8 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# Copyright (c) 2022 Huansu. Some rights reserved.
-# Author: Huansu
+# Copyright (c) 2022 Lxueying. Some rights reserved.
+# Author: Lxueying
 # Filename: PaddingKernel.py
 # Note:  To pad the value of kernel. Be ready to create the identity branch. If you want to run this code, you would/
 #            be better to run fuse_BN.py firstly.
