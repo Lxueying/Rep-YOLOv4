@@ -1,0 +1,219 @@
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_108.jpg 1734,866,2206,1202,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_126.jpg 937,1383,1281,1677,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_13.jpg 1193,1120,1687,1537,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_136.jpg 750,1603,1041,1927,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_142.jpg 958,1335,1219,1593,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_149.jpg 1271,933,1900,1438,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_161.jpg 989,824,1445,1233,0 1502,1007,1604,1124,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_192.jpg 1703,1305,2072,1643,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_201.jpg 1005,1271,1402,1699,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_205.jpg 1239,1055,1635,1437,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_208.jpg 1112,933,1474,1212,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_212.jpg 1360,1255,1589,1504,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_220.jpg 1352,613,1642,922,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_224.jpg 547,1163,999,1554,0 1103,1056,1521,1366,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_236.jpg 856,948,1210,1315,0 1402,1087,1707,1403,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_253.jpg 1608,806,2125,1354,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_265.jpg 1412,722,1667,1125,0 1289,753,1460,963,0 1438,1025,1573,1145,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_268.jpg 911,873,1470,1368,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_276.jpg 1131,1261,1539,1644,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_292.jpg 1699,449,2162,907,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_314.jpg 1427,836,1870,1334,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_323.jpg 1783,1011,2006,1358,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_330.jpg 1424,1188,1731,1537,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_361.jpg 786,1437,1136,1834,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_376.jpg 1041,1207,1239,1407,0 1592,624,1713,724,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_377.jpg 1374,1168,1787,1592,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_384.jpg 2019,1381,2313,1660,0 255,473,654,802,0 961,428,1051,522,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_396.jpg 1353,1221,1656,1461,0 1330,1115,1653,1273,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_415.jpg 1591,1060,2512,1943,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_439.jpg 1438,1199,2033,1770,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_448.jpg 948,1067,1646,1892,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_464.jpg 1014,1577,1563,2237,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_472.jpg 1823,1182,2335,1720,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_488.jpg 1884,902,2673,1643,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_489.jpg 1779,1203,2268,1767,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_491.jpg 888,824,1301,1378,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_51.jpg 1554,1584,1745,1750,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_513.jpg 1590,1424,2158,1950,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_552.jpg 1150,1304,1537,1798,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_568.jpg 1120,1148,1657,1725,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_573.jpg 1285,973,2287,1840,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_575.jpg 1658,826,2405,1748,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_579.jpg 1300,1249,2130,2051,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_584.jpg 1333,846,2573,2152,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_589.jpg 750,1529,1667,2450,0 1533,1952,2350,2577,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_600.jpg 1179,630,1896,1329,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_615.jpg 1350,1089,2341,1911,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_641.jpg 1068,1716,1607,2292,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_644.jpg 1839,1517,2516,2144,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_647.jpg 1920,1009,2711,1752,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_652.jpg 1282,1409,1826,1919,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_654.jpg 983,1219,1725,2089,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_670.jpg 985,840,1572,1405,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_676.jpg 1494,1303,1997,1758,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_677.jpg 1674,943,2272,1519,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_678.jpg 2087,1106,2639,1723,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_680.jpg 1782,574,2600,1190,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_697.jpg 1276,1567,2128,2536,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_698.jpg 1250,1033,2394,1881,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_704.jpg 1115,1221,1617,1814,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_730.jpg 1,1602,566,2427,0 382,940,1510,2062,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_764.jpg 954,1551,1382,2108,0 1883,208,2155,429,0 953,3,1389,106,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_765.jpg 1100,1402,1977,2140,0 2870,1693,3024,1971,0 603,2054,772,2213,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_769.jpg 1329,1428,1732,1860,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_77.jpg 1110,1521,1298,1667,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_771.jpg 503,1343,1234,2090,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_78.jpg 1289,1073,1578,1338,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_795.jpg 243,1609,864,2607,0 720,2060,1552,2793,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_801.jpg 733,1394,1348,1983,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_81.jpg 1117,1130,1454,1453,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Dream_91.jpg 526,1110,947,1494,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_100.jpg 1194,1018,1599,1487,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1000.jpg 799,1594,1327,2225,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1004.jpg 1207,1451,1830,2101,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1006.jpg 1242,1484,1590,1868,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1015.jpg 1188,1492,1612,1988,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1030.jpg 849,1548,1688,2310,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1039.jpg 1040,1871,1827,2648,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1048.jpg 1356,864,2215,1802,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1058.jpg 1600,1279,2356,1893,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_106.jpg 1063,1732,1586,2394,0 1130,709,1611,1120,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1074.jpg 1152,1448,1533,1975,0 1674,1438,2153,1893,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1113.jpg 985,1231,1387,1697,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1118.jpg 1705,1165,2032,1441,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1133.jpg 1169,955,1461,1131,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_114.jpg 1236,1324,1537,1629,0 767,1479,1065,1692,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1145.jpg 1485,1415,1969,1803,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1147.jpg 1698,1362,1900,1636,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1165.jpg 1349,1230,1656,1455,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1166.jpg 1125,1138,1360,1358,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1181.jpg 682,882,905,1164,0 658,1267,1000,1630,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1196.jpg 1469,1383,1732,1671,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1220.jpg 852,1314,1241,1697,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1225.jpg 352,607,654,913,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1228.jpg 1078,1189,1458,1593,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_123.jpg 942,1173,1339,1479,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1238.jpg 881,983,1461,1631,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1249.jpg 1479,510,1982,1041,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1270.jpg 1539,1051,1924,1301,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1277.jpg 1679,1494,2180,1878,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_128.jpg 708,863,891,1051,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1301.jpg 932,1217,1280,1488,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1305.jpg 1511,1372,2033,1831,0 2014,603,2503,983,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_131.jpg 1388,1439,1587,1719,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1312.jpg 1431,1079,1881,1421,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1316.jpg 1577,878,1887,1248,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1326.jpg 1624,1351,2075,1794,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1352.jpg 1844,958,2081,1295,0 842,562,1268,852,0 894,377,1174,565,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1355.jpg 978,399,1314,758,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1363.jpg 1154,1011,1679,1599,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1368.jpg 1475,1624,2050,2197,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1382.jpg 667,2606,1102,2821,0 943,2003,1353,2483,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1391.jpg 1652,1115,2458,1928,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1393.jpg 1087,1438,1881,1922,0 10,118,842,567,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1438.jpg 1452,957,2181,1699,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_144.jpg 1224,1120,1557,1529,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1449.jpg 749,1055,1299,1497,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_145.jpg 1233,1328,1454,1566,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1450.jpg 1197,858,1905,1628,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1457.jpg 695,177,978,327,0 1115,1009,1459,1372,0 1263,2356,1585,2705,0 1472,1955,1835,2422,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1464.jpg 10,2425,233,2992,0 832,1396,1413,1838,0 2540,1270,2960,1440,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1482.jpg 738,848,1199,1408,0 692,4,1249,523,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1484.jpg 695,1298,1072,1690,0 690,853,1103,1134,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1487.jpg 2319,1140,2581,1367,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_149.jpg 1243,893,1605,1214,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1493.jpg 1015,1358,1670,1815,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_150.jpg 946,1099,1337,1491,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1516.jpg 882,1444,1328,1841,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1539.jpg 685,1020,1172,1569,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1566.jpg 687,1473,1723,2225,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1569.jpg 655,1347,1348,1993,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1575.jpg 981,1451,1594,2012,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1577.jpg 1382,1484,1710,1996,0 1669,1220,2169,1665,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1586.jpg 1942,1228,2332,1670,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1595.jpg 1232,1450,1815,2069,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1611.jpg 1116,1245,2423,2319,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1612.jpg 1191,874,1855,1289,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1625.jpg 917,1617,1714,2374,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1641.jpg 812,969,1461,1565,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1642.jpg 1100,1014,1900,1702,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1652.jpg 687,1012,1439,1664,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1660.jpg 472,1670,1145,1989,0 1301,1170,2001,1916,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1662.jpg 1649,1487,2092,1962,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1665.jpg 955,1109,1923,2089,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1666.jpg 1058,1345,2092,2409,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1681.jpg 1258,1145,2011,1770,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1693.jpg 858,894,1199,1232,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_1701.jpg 2165,989,2610,1442,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_178.jpg 1465,1322,1752,1626,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Poinsettia_185.jpg 976,1114,1319,1483,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_106.jpg 539,447,910,800,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_123.jpg 1157,1056,1433,1300,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_126.jpg 1272,1123,1466,1309,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_132.jpg 1560,1578,1723,1741,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_135.jpg 1266,1420,1554,1688,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_137.jpg 1325,1213,1568,1379,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_142.jpg 1125,1752,1435,2068,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_159.jpg 1132,1146,1340,1351,0 1268,1225,1450,1453,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_163.jpg 1239,980,1391,1172,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_18.jpg 1147,998,1445,1227,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_189.jpg 1568,1107,1771,1310,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_20.jpg 846,1031,1127,1242,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_202.jpg 970,1040,1342,1443,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_204.jpg 1043,1938,1310,2254,0 1118,313,1364,578,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_235.jpg 1229,1168,1575,1547,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_25.jpg 1319,1281,1593,1493,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_252.jpg 1335,1430,1618,1677,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_277.jpg 897,1034,1109,1372,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_281.jpg 2170,1526,2498,1806,0 1050,1094,1276,1254,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_282.jpg 1321,1326,1587,1581,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_298.jpg 1424,925,1709,1169,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_344.jpg 1180,689,1458,951,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_359.jpg 1227,1255,1522,1546,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_363.jpg 1261,1254,1661,1663,0 1084,992,1499,1287,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_365.jpg 1663,1379,2027,1753,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_366.jpg 1370,1246,1576,1455,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_377.jpg 1009,759,1306,958,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_380.jpg 1162,805,1376,1034,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_384.jpg 1632,1357,1801,1505,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_388.jpg 1375,1095,1625,1415,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_400.jpg 1082,1320,1283,1587,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_406.jpg 694,1637,980,2251,0 1114,1432,1758,2073,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_414.jpg 1407,832,2130,1655,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_431.jpg 1238,1447,1715,1923,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_46.jpg 1526,1103,1714,1251,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_467.jpg 1739,1343,2339,1864,0 2323,887,2667,1461,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_468.jpg 1826,1194,2579,1801,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_485.jpg 1065,758,1514,1260,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_503.jpg 2151,1030,2864,1907,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_51.jpg 1107,838,1676,1152,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_510.jpg 800,744,1382,1411,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_513.jpg 1269,1249,1810,1784,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_518.jpg 1099,1049,1689,1678,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_532.jpg 1414,1410,2046,2103,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_546.jpg 1169,1571,1740,2184,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_56.jpg 1202,664,1449,860,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_560.jpg 1375,1141,2233,1982,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_566.jpg 1604,1197,2417,1964,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_568.jpg 1936,1139,2269,1445,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_569.jpg 1414,1529,1675,2132,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_588.jpg 1378,1206,2014,1745,0 1614,1529,2298,2193,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_602.jpg 717,929,1798,2322,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_613.jpg 1682,2235,2014,2559,0 1830,1504,2354,1866,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_62.jpg 1425,1168,1729,1374,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_627.jpg 1353,1132,2098,1942,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_655.jpg 527,516,1391,1242,0 1982,758,2736,1542,0 1156,10,1504,203,0 865,181,1195,519,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_671.jpg 830,1255,1224,1887,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_673.jpg 931,1120,1444,1687,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_688.jpg 1104,1461,1795,1952,0 2130,1271,2759,2042,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_691.jpg 524,628,1159,1235,0 1138,663,1683,1194,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_698.jpg 1295,1206,1998,1806,0 1940,1297,2724,1868,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_700.jpg 1959,1610,2775,2329,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_708.jpg 1653,1132,2230,1690,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_712.jpg 991,2652,1275,2974,0 1443,1013,2078,1645,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_715.jpg 1411,1619,2295,2374,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_718.jpg 1127,1415,1585,1882,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_723.jpg 1477,1066,2431,1883,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_774.jpg 1427,926,2124,1668,0
+E:\RparameterizationWithChangedYolo\VOCdevkit/VOC2007/JPEGImages/Red_Face_78.jpg 1155,1063,1424,1374,0
